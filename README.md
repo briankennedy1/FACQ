@@ -20,6 +20,8 @@ Here's an example:
 ########## GREP
 
 Q: How do I use GREP to find something??
-A: Here is the command: grep "education" resume.pdf
+
+A: You can find something using grep with this command:  grep the-word-you-are-searching-for name-of-file.txt, e.g. grep "education" resume.pdf
+
 A: Command Line Basics 8: Using the grep command https://www.youtube.com/watch?v=3w7xrQWRYrU
 

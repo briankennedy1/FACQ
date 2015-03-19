@@ -5,9 +5,13 @@ This repo contains resources, answers, and comments to questions
 commonly encountered when working through the curriculum.
 
 The directory structure of the repo is:
+
 layer 1: phases,
+
 layer 2: units,
+
 layer 3: weeks,
+
 layer 4: files,
 
 

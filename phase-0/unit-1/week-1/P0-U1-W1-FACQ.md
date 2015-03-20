@@ -5,7 +5,7 @@
 ####Q: What is a shell?
 A: A shell is a program that allows you to interact with the computer. For shells that use the command line instead of graphics, you type in commands. So instead of clicking on a folder you can tell the computer to open it with a command e.g. cd documents. Shells have programs and those programs have commands.
 
-####Q: What is a command line?Internal - recognized and processed by the command line interpreter itself and not dependent upon any external executable file. (see what is a utility?)
+####Q: What is a command line?
 A: A command line allows a user to provide instructions and data to the operating system.
 
 R: A digram of the command line: http://eglug.org/files/image_store/diagram2-454.png

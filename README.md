@@ -2,7 +2,7 @@
 Frequently Asked Curriculum Questions
 
 This repo contains resources, answers, and comments to questions
-commonly encountered when working through the curriculum.
+commonly encountered when working through the curriculum :)
 
 ###The directory structure of the repo is:
 

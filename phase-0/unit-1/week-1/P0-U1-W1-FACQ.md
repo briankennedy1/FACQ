@@ -40,3 +40,8 @@ A: "A command prompt (or just prompt) is a sequence of (one or more) characters 
 
 ####Q:What are environmental variables?
 A: They are names with values that affect they way a program runs on your computer. A running program can look at environmental variable values to determine what they should do with stuff. E.G. maybe a program wants to find out where to store something temporarily, they can look at your TEMP environmental variable to find out.
+
+##Github
+
+####Q: I've made updates to a cloned repo, how can I upload them and get them merged into the master project?
+A: Check out this tutorial that explains how to submit your changes to a project: Submiting Your First Pull Request on Github https://www.youtube.com/watch?v=YTbRzhQju4c

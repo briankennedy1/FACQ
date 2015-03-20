@@ -6,23 +6,23 @@ commonly encountered when working through the curriculum :)
 
 ###The directory structure of the repo is:
 
-layer 1: phases,
+Layer 1: phases
 
-layer 2: units,
+Layer 2: units
 
-layer 3: weeks,
+Layer 3: weeks
 
-layer 4: files,
+Layer 4: files
 
 
 ###How to add content to a file:
-** if you have a better system please submit it!!! ***
+#####if you have a better system please submit it!!! 
 
-When adding content to a file create a category if one doesn't exist for that piece of the curriculum, then add your question and answer to the content below that. Demarcate that category with a bunch of * signs.
+When adding content to a file create a category header if one doesn't exist for that piece of the curriculum, then add your question and answer to the content below that. In order to create a header precede the category with 4 hashtags.
 
 Here's an example:
 
-******** GREP
+####GREP
 
 Q: How do I use GREP to find something??
 

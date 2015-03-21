@@ -30,5 +30,5 @@ A: Use the following command: grep "search term" name_of_file
 
 E: grep "education" resume2015.txt
 
-A: Command Line Basics 8: Using the grep command https://www.youtube.com/watch?v=3w7xrQWRYrU
+R: Command Line Basics 8: Using the grep command https://www.youtube.com/watch?v=3w7xrQWRYrU
 

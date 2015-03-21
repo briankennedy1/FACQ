@@ -32,3 +32,4 @@ E: grep "education" resume2015.txt
 
 R: Command Line Basics 8: Using the grep command https://www.youtube.com/watch?v=3w7xrQWRYrU
 
+#####You are invited to add, update, and delete anything in this repo. All contributors will be offered the status of collaborator. 

@@ -27,6 +27,7 @@ Here's an example:
 Q: How do I use GREP to find something??
 
 A: Use the following command: grep "search term" name_of_file
+
 E: grep "education" resume2015.txt
 
 A: Command Line Basics 8: Using the grep command https://www.youtube.com/watch?v=3w7xrQWRYrU

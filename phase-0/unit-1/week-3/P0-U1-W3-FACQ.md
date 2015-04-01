@@ -38,7 +38,7 @@ When working through the problem of trying to find the longest word in an array,
 
 The below example uses the `currentchamp` and `upnext` variables to better visualize what reduce is doing. The first element in the array automatically becomes `currentchamp` by default. But then it is compared to `upnext`. 
 
-Whichever string is longer of the two being compared will become `currentchamp`. Then, `inject` repeats this process until all elements in the array have been compared.
+Whichever string is longer will become `currentchamp`. Then, `inject` repeats this process *until all elements in the array have been compared*.
 
 ```ruby
 def longest_string(string_arr) # find the longest word

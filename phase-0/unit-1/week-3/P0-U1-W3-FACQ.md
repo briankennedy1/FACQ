@@ -1,4 +1,4 @@
-## Using Ruby `reduce` to get a result
+## Using Ruby `reduce` to combine an array
 
 `reduce` is a useful method to use when doing challenges. The method takes elements inside of an array and combines them as you wish.
 
@@ -30,7 +30,7 @@ You can also use reduce on ranges
 
 [Here are the Ruby docs on reduce](http://ruby-doc.org/core-2.2.1/Enumerable.html#method-i-reduce)
 
-## Using Ruby `inject` to find a result
+## Using Ruby `inject` to compare elements in an array
 
 When working through the problem of trying to find the longest word in an array, we found the `inject` method to do the job nicely.
 

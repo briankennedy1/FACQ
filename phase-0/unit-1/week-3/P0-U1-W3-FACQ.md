@@ -64,4 +64,6 @@ end
 puts longest_string(["Bob", "Teddy", "Kennedy"])
 ```
 
+Change the comparison operator `>` to `<` to find the shortest string in an array.
+
 [Here's the Ruby docs on inject](http://ruby-doc.org/core-2.2.1/Enumerable.html#method-i-inject)

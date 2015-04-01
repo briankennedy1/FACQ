@@ -41,20 +41,19 @@ The below example uses the `currentchamp` and `upnext` variables to better visua
 Whichever string is longer will become `currentchamp`. Then, `inject` repeats this process *until all elements in the array have been compared*.
 
 ```ruby
-def longest_string(string_arr) # find the longest word
+def longest_string(string_arr)
   string_arr.inject do |currentchamp, upnext|
     if currentchamp.length > upnext.length
       currentchamp
     else
       upnext
     end
-#   currentchamp.length > upnext.length ? currentchamp : upnext
   end
 end
 puts longest_string(["Bob", "Teddy", "Kennedy"])
 ```
 
-The version using the ternary operator (shorthand for if/else) is much shorter, but less readable to me.
+The version using the ternary operator (shorthand for if/else) is much shorter, but less readable to me at this point in my learning. Note to self: get better at the ternary operator.
 
 ```ruby
 def longest_string(string_arr) # find the longest word
